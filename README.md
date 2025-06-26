@@ -31,7 +31,7 @@ Este projeto automatiza, de ponta a ponta, o seguinte fluxo:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/gabrielmoreira/login-test-gabriel-moreira.git
+   git clone https://github.com/gabrieldevms/login-test-gabriel-moreira
    cd login-test-gabriel-moreira
    ```
 

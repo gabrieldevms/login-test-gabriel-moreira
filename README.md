@@ -23,6 +23,7 @@ Este projeto automatiza, de ponta a ponta, o seguinte fluxo:
 - [Playwright](https://playwright.dev/) com TypeScript
 - [MailSlurp](https://www.mailslurp.com) para e-mails temporários
 - [dotenv](https://www.npmjs.com/package/dotenv) para variáveis de ambiente
+- [cheerio](https://cheerio.js.org/) parser HTML no Node.js
 - Testes estruturados com Page Object Model
 
 ---

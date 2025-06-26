@@ -1,0 +1,22 @@
+{
+  "name": "login-test-gabriel-moreira",
+  "version": "1.0.0",
+  "description": "Automated end‑to‑end test of account creation with 2FA on beta.skill5.com using Playwright and MailSlurp",
+  "author": "Gabriel Moreira",
+  "license": "MIT",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:report": "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "dotenv": "^16.3.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.4.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.0",
+    "mailslurp-client": "^15.24.1"
+  }
+}

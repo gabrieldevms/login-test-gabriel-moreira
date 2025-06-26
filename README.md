@@ -1,4 +1,4 @@
-# login-test-gabriel-moreira
+# Desafio Técnico — QA Automatizador com Playwright
 
 Automação de teste E2E com [Playwright](https://playwright.dev) validando o fluxo de **criação de conta com autenticação 2FA** no site [beta.skill5.com](https://beta.skill5.com), utilizando integração com [MailSlurp](https://mailslurp.com) para captura automatizada do código enviado por e-mail.
 
